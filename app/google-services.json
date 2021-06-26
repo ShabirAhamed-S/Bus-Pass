@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627372841060",
+    "firebase_url": "https://bus-pass-b694e.firebaseio.com",
+    "project_id": "bus-pass-b694e",
+    "storage_bucket": "bus-pass-b694e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627372841060:android:68574a1cd320c07dca6771",
+        "android_client_info": {
+          "package_name": "com.example.buspass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627372841060-705gu7agj8tvfod5ui07p0fsa6ia8r7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buspass",
+            "certificate_hash": "621f616a0d4e08ae61d6446d9fb484433f747bca"
+          }
+        },
+        {
+          "client_id": "627372841060-cbv441atr97okbmolu564kn3364ahsu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDiKiKUDpNUBXegVjz0Lh9STtYectpDYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627372841060-cbv441atr97okbmolu564kn3364ahsu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

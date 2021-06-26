@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Bus Pass</string>
+    <string-array name="State">
+        <item>   </item>
+        <item> Andhra Pradesh </item>
+        <item> Arunachal Pradesh </item>
+        <item> Assam </item>
+        <item> Bihar </item>
+        <item> Goa</item>
+        <item> Gujarat </item>
+        <item>Haryana </item>
+        <item> Himachal Pradesh </item>
+        <item> Jammu and Kashmir </item>
+        <item> Karnataka </item>
+        <item> Kerala </item>
+        <item> Madhya Pradesh </item>
+        <item> Maharashtra </item>
+        <item> Manipur </item>
+        <item> Meghalaya </item>
+        <item> Mizoram </item>
+        <item> Nagaland </item>
+        <item> Orissa </item>
+        <item> Punjab </item>
+        <item> Rajasthan </item>
+        <item> Sikkim </item>
+        <item> Tamil Nadu </item>
+        <item> Tripura </item>
+        <item> Uttar Pradesh </item>
+        <item> West Bengal </item>
+        <item> Chhattisgarh</item>
+        <item> Uttarakhand </item>
+        <item> Jharkhand </item>
+        <item> Telangana </item>
+    </string-array>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email">[a-z0-9._-]+@[a-z]+\\.+[a-z]+</string>
+</resources>
